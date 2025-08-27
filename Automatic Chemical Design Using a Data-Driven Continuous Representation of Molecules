@@ -1,0 +1,21 @@
+## Objective
+
+Synthetysing more drug like molecules.
+## Context
+
+We have discovered arround 10^8 drug like molecules, we estimate the existence of 10^23 to 10^60: There is a lot to discover.
+Machine learning is becoming increacingly effective in this domain.
+## Method
+
+Using an incoder: codes the molecules to SMILES vector (better than InCHI in terms of resullts)
+tasks of the encoder: Molecules reconstraction, molecules properties prediction.
+Using a perceptron: NN system.
+## What I have learned
+
+Latent space: compressed representation of data.
+QED: Quantitative Estimation of Drug-Likeness
+KDE: Kernel Density Estimator
+QM9: Small molecules dataset: - 134000 molecules
+                              - 9 heavy atoms
+Bayesian inference: Updating your beliefs when you see new evidence
+GRU: handles long term dependencies better than LSTM
