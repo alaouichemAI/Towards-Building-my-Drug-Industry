@@ -9,3 +9,9 @@ N.B: I will publish the certificates in my LinkedIn Portfolio: www.linkedin.com/
 2. Worked on setting up N8N for automating my social media.
 
 N.B.: I'm still working on the automations
+## Week 3 – 2025-08-27
+1. I have practiced english speaking, because I'm preparing for the IELTS.
+2. Fixed the N8N memory problem + settup 2 automations.
+3. Practiced some coding in Pandas and matplotlib.pyplot and numpy libraries.
+
+N.B.: I'm late one dayin submitting.
