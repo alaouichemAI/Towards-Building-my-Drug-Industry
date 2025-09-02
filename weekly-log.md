@@ -15,3 +15,17 @@ N.B.: I'm still working on the automations
 3. Practiced some coding in Pandas and matplotlib.pyplot and numpy libraries.
 
 N.B.: I'm late one dayin submitting.
+## Week 4 – 2025-09-03
+1. Took the course of Introduction to Artificial Intelligence (AI). I had 2 goals: - Find new AI tolls I might use: failed because the devellopement in the AI domain is fast, so the tools I saw are outdated. 
+- Get new ideas on how I can use AI to be more productive
+2. Made several news automations in my LinkedIn account:
+  for chemistry
+  for AI
+  for robotics
+  for renewable energies (I don't care a lot but the scientific community does)
+  for business
+  for leadership
+My account: www.linkedin.com/in/mohamed-el-belghiti-alaoui-568600326
+N.B: The news I was interested about the most were drug developement news, but their websites are so antiscraping, so I have to find different approaches.
+
+  
