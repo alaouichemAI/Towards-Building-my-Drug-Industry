@@ -5,7 +5,7 @@
 N.B: I will publish the certificates in my LinkedIn Portfolio: www.linkedin.com/in/mohamed-el-belghiti-alaoui-568600326
 
 ## Week 2 – 2025-08-19
-1. Studied the course of Understanding Research Methods.The reason is learning how to build my research proposal, because I won't stick to the  PhD next year program if it's not aligned with my goals.
+1. Studied the course of Understanding Research Methods.The reason is learning how to build my research proposal, because I might not stick to the PhD next year program if it's not aligned with my goals.
 2. Worked on setting up N8N for automating my social media.
 
 N.B.: I'm still working on the automations
@@ -27,5 +27,12 @@ N.B.: I'm late one dayin submitting.
   for leadership
 My account: www.linkedin.com/in/mohamed-el-belghiti-alaoui-568600326
 N.B: The news I was interested about the most were drug developement news, but their websites are so antiscraping, so I have to find different approaches.
-
+## Week 5 – 2025-09-09
+1. I begun to code without looking at the keybord.
+2. Took the course with the title: Collaborate Effectively for Professional Success
+I want to become a better collaborator
+3. Made 2 news automations in my LinkedIn account:
+   - Chemistry phenoms explainer
+   - General phenoms from a chemical perspective
+   
   
