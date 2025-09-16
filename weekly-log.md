@@ -34,5 +34,6 @@ I want to become a better collaborator
 3. Made 2 news automations in my LinkedIn account:
    - Chemistry phenoms explainer
    - General phenoms from a chemical perspective
-   
+## Week 6 – 2025-09-16
+I'm focused on one thing: Preparing for the PhDs interviews, that will increase my chance to get the PhD I want. I will also learn a lot of things.
   
