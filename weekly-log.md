@@ -36,4 +36,6 @@ I want to become a better collaborator
    - General phenoms from a chemical perspective
 ## Week 6 – 2025-09-16
 I'm focused on one thing: Preparing for the PhDs interviews, that will increase my chance to get the PhD I want. I will also learn a lot of things.
+## Week 7 – 2025-09-23
+I have finished my preparation for the PhD interviews.
   
