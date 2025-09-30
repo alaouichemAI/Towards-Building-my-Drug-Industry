@@ -19,12 +19,12 @@ N.B.: I'm late one dayin submitting.
 1. Took the course of Introduction to Artificial Intelligence (AI). I had 2 goals: - Find new AI tolls I might use: failed because the devellopement in the AI domain is fast, so the tools I saw are outdated. 
 - Get new ideas on how I can use AI to be more productive
 2. Made several news automations in my LinkedIn account:
-  for chemistry
-  for AI
-  for robotics
-  for renewable energies (I don't care a lot but the scientific community does)
-  for business
-  for leadership
+  - for chemistry
+  - for AI
+  - for robotics
+  - for renewable energies (I don't care a lot but the scientific community does)
+  - for business
+  - for leadership
 My account: www.linkedin.com/in/mohamed-el-belghiti-alaoui-568600326
 N.B: The news I was interested about the most were drug developement news, but their websites are so antiscraping, so I have to find different approaches.
 ## Week 5 – 2025-09-09
@@ -38,4 +38,12 @@ I want to become a better collaborator
 I'm focused on one thing: Preparing for the PhDs interviews, that will increase my chance to get the PhD I want. I will also learn a lot of things.
 ## Week 7 – 2025-09-23
 I have finished my preparation for the PhD interviews.
-  
+## Week 8 – 2025-09-30
+1. I have finished training my first QSAR model, I fine-tuned it to 63.7% accuracy with only 1738 molecules.
+2. Made several news automations in my LinkedIn account, and optimised old ones:
+   - soft skills (new)
+   - molecules facts (new)
+   - chemistry wisdoms (optimised)
+   - career advices (new)
+   - lab tips (optimised)
+   -
