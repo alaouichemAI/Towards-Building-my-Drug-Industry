@@ -39,11 +39,13 @@ I'm focused on one thing: Preparing for the PhDs interviews, that will increase 
 ## Week 7 – 2025-09-23
 I have finished my preparation for the PhD interviews.
 ## Week 8 – 2025-09-30
-1. I have finished training my first QSAR model, I fine-tuned it to 63.7% accuracy with only 1738 molecules.
+1. I have finished training my first QSAR model for A2A receptor, I fine-tuned it to 63.7% accuracy with only 1738 molecules.
 2. Made several news automations in my LinkedIn account, and optimised old ones:
    - soft skills (new)
    - molecules facts (new)
    - chemistry wisdoms (optimised)
    - career advices (new)
    - lab tips (optimised)
-   
+## Week 9 – 2025-10-07
+1. I have finished training 2 other QSAR models, the receptors are CAII and CAIV,I have used the same code.
+2. Produced a pre-print for the A2A receptor. The resulets: https://github.com/alaouichemAI/Articles
