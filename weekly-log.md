@@ -49,3 +49,6 @@ I have finished my preparation for the PhD interviews.
 ## Week 9 – 2025-10-07
 1. I have finished training 2 other QSAR models, the receptors are CAII and CAIV,I have used the same code.
 2. Produced a pre-print for the A2A receptor. The resulets: https://github.com/alaouichemAI/Articles
+## Week 10 – 2025-10-14
+1. I have took some PhD interviews.
+2. I am working on importing kaggle GPU in my VScode notebook to automate training multiple AIs, some advancement.
