@@ -52,3 +52,7 @@ I have finished my preparation for the PhD interviews.
 ## Week 10 – 2025-10-14
 1. I have took some PhD interviews.
 2. I am working on importing kaggle GPU in my VScode notebook to automate training multiple AIs, some advancement.
+## Week 11 – 2025-10-21
+1. I have finished more than 70% of my website: www.chemisters.com, still has some bugs.
+2. I am working on my automated QSAR model, I have improved the descriptors calculation and exclusion codes.
+3. I have built several automations and added them to my LI account.
