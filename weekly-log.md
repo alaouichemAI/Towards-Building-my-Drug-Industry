@@ -60,3 +60,6 @@ I have finished my preparation for the PhD interviews.
 I have stopped everything temporarly, the reason is that I'm focusing all of my attention on the IELTS exam in 15/11/2025
 ## Week 13 – 2025-11-04
 I'm still preparing for the IELTS test...
+## Week 14 – 2025-11-11
+I'm still preparing for the IELTS test...
+After this saturday, I will be finally free.
