@@ -63,3 +63,6 @@ I'm still preparing for the IELTS test...
 ## Week 14 – 2025-11-11
 I'm still preparing for the IELTS test...
 After this saturday, I will be finally free.
+## Week 15 – 2025-11-18
+I finally got my IELTS
+My QSAR program now takes databases from multiple sources, not just ChemBL
