@@ -66,3 +66,6 @@ After this saturday, I will be finally free.
 ## Week 15 – 2025-11-18
 I finally got my IELTS
 My QSAR program now takes databases from multiple sources, not just ChemBL
+## Week 16 – 2025-11-25
+Now my code will work on multiple endpoints, it's no longer a QSAR QSTR study, but a full study for each receptor.
+I am still adding more data sources...
