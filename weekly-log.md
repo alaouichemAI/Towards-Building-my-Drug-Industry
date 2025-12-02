@@ -69,3 +69,17 @@ My QSAR program now takes databases from multiple sources, not just ChemBL
 ## Week 16 – 2025-11-25
 Now my code will work on multiple endpoints, it's no longer a QSAR QSTR study, but a full study for each receptor.
 I am still adding more data sources...
+## Week 17 – 2025-12-02
+Now my code gathers correctly essays data from PubChem and BindingDB
+Those are the endpoints I'm working on now:
+✔ Potency:
+IC50, EC50, AC50, MIC
+✔ Affinity:
+Ki, Kd, Ka, kon, koff, Bmax
+✔ Efficacy:
+Emax, intrinsic activity, τ (tau), bias factor
+✔ Functional signaling:
+GPCR: cAMP, IP1/IP3, Ca²⁺, β-arrestin, GTPγS
+RTK: pERK, pAKT, pSTAT
+Ion channel: I, G, Po, V½, desensitization
+
