@@ -82,4 +82,9 @@ Emax, intrinsic activity, τ (tau), bias factor
 GPCR: cAMP, IP1/IP3, Ca²⁺, β-arrestin, GTPγS
 RTK: pERK, pAKT, pSTAT
 Ion channel: I, G, Po, V½, desensitization
+## Week 18 – 2025-12-09
+I've decided the architecture of my classification and regression meta-models
+I've added Lipinski rules study to my code
+I've added a rules based system that decides if a molecule will penetrate a specific organ based on a rules based descriptors system
+I've built a code that calculates more than 20000 descriptors for each molecule (I have a lot of endpoints so I have to add more descriptors to asssure the quality of each AI model)
 
