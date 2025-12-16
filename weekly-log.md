@@ -84,8 +84,11 @@ RTK: pERK, pAKT, pSTAT
 Ion channel: I, G, Po, V½, desensitization
 ## Week 18 – 2025-12-09
 I've decided the architecture of my classification and regression meta-models
+
 I've added Lipinski rules study to my code
+
 I've added a rules based system that decides if a molecule will penetrate a specific organ based on a rules based descriptors system
+
 I've built a code that calculates more than 8000 descriptors for each molecule (I have a lot of endpoints so I have to add more descriptors to asssure the quality of each AI model)
 ## Week 19 – 2025-12-16
 I've desined a specific cleaning pipeline for every family that selects the best cleaning hyperparameters (took too much time)
