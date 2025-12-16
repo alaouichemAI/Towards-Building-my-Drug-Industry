@@ -5,7 +5,7 @@
 N.B: I will publish the certificates in my LinkedIn Portfolio: www.linkedin.com/in/mohamed-el-belghiti-alaoui-568600326
 
 ## Week 2 – 2025-08-19
-1. Studied the course of Understanding Research Methods.The reason is learning how to build my research proposal, because I might not stick to the PhD next year program if it's not aligned with my goals.
+1. Studied the course of Understanding Research Methods.The reason is learning how to build my research proposals.
 2. Worked on setting up N8N for automating my social media.
 
 N.B.: I'm still working on the automations
@@ -86,5 +86,7 @@ Ion channel: I, G, Po, V½, desensitization
 I've decided the architecture of my classification and regression meta-models
 I've added Lipinski rules study to my code
 I've added a rules based system that decides if a molecule will penetrate a specific organ based on a rules based descriptors system
-I've built a code that calculates more than 20000 descriptors for each molecule (I have a lot of endpoints so I have to add more descriptors to asssure the quality of each AI model)
-
+I've built a code that calculates more than 8000 descriptors for each molecule (I have a lot of endpoints so I have to add more descriptors to asssure the quality of each AI model)
+## Week 19 – 2025-12-16
+I've desined a specific cleaning pipeline for every family that selects the best cleaning hyperparameters (took too much time)
+Changed how I handle ambiguous values to min max approach
