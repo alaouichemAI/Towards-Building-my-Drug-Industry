@@ -108,3 +108,5 @@ I've built a code that calculates more than 8000 descriptors for each molecule (
 ## Week 19 – 2025-12-16
 I've desined a specific cleaning pipeline for every family that selects the best cleaning hyperparameters (took too much time)
 Changed how I handle ambiguous values to min max approach
+## Week 20 – 2025-12-23
+I'm implementing the logic of dealing with special values like << and intervals...
