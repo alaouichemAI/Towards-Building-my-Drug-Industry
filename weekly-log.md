@@ -110,3 +110,5 @@ I've desined a specific cleaning pipeline for every family that selects the best
 Changed how I handle ambiguous values to min max approach
 ## Week 20 – 2025-12-23
 I'm implementing the logic of dealing with special values like << and intervals...
+## Week 21 – 2025-12-30
+I'm studying the different stacking approaches for my regression model.
