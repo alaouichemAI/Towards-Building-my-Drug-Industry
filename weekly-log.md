@@ -112,3 +112,6 @@ Changed how I handle ambiguous values to min max approach
 I'm implementing the logic of dealing with special values like << and intervals...
 ## Week 21 – 2025-12-30
 I'm studying the different stacking approaches for my regression model.
+## Week 22 – 2025-01-06
+I've built my stacking code.
+I've optimized my codes memory efficiency
