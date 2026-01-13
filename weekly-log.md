@@ -115,3 +115,5 @@ I'm studying the different stacking approaches for my regression model.
 ## Week 22 – 2025-01-06
 I've built my stacking code.
 I've optimized my codes memory efficiency
+## Week 23 – 2025-01-13
+I've finally completed the meta QSR
