@@ -125,3 +125,7 @@ The QSR program now automates creating its apps
 ## Week 26 – 2025-02-03
 I've built more than 100 automation
 The QSR program that automates creating its apps still has some bugs, I'm still fixing them
+## Week 27 – 2025-02-10
+I've automated several Facebook and LinkedIn pages, their links are here:
+https://github.com/alaouichemAI/Automated-pages/commit/71fd2a967a68df4138fa10b951c30a7fde30f3ad
+I've built a SMILES generator to integrate it to my QSR workflow
