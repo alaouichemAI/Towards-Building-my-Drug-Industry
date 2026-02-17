@@ -129,3 +129,7 @@ The QSR program that automates creating its apps still has some bugs, I'm still 
 I've automated several Facebook and LinkedIn pages, their links are here:
 https://github.com/alaouichemAI/Automated-pages/commit/71fd2a967a68df4138fa10b951c30a7fde30f3ad
 I've built a SMILES generator to integrate it to my QSR workflow
+## Week 28 – 2025-02-17
+I've finished work on the LDLR receptor; all the receptors I'll work on will be here:
+https://github.com/alaouichemAI/Receptors
+Still working on the SMILES generator
