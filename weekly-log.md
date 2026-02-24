@@ -133,3 +133,7 @@ I've built a SMILES generator to integrate it to my QSR workflow
 I've finished work on the LDLR receptor; all the receptors I'll work on will be here:
 https://github.com/alaouichemAI/Receptors
 Still working on the SMILES generator
+## Week 29 – 2025-02-25
+I've automated other pages
+I've finished work on the SMILES generator
+Still working on integreting it with the activity models to get drug like molecules for every receptor
