@@ -137,3 +137,6 @@ Still working on the SMILES generator
 I've automated other pages
 I've finished work on the SMILES generator
 Still working on integreting it with the activity models to get drug like molecules for every receptor
+## Week 30 – 2025-03-03
+I'm integrating the SMILES generator with the activity model
+I've improved the apps generator visuals and added the ability to process CSVs
