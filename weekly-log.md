@@ -140,3 +140,5 @@ Still working on integreting it with the activity models to get drug like molecu
 ## Week 30 – 2025-03-03
 I'm integrating the SMILES generator with the activity model
 I've improved the apps generator visuals and added the ability to process CSVs
+## Week 31 – 2025-03-10
+The drug discovery pipeline is ready
