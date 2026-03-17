@@ -112,33 +112,36 @@ Changed how I handle ambiguous values to min max approach
 I'm implementing the logic of dealing with special values like << and intervals...
 ## Week 21 – 2025-12-30
 I'm studying the different stacking approaches for my regression model.
-## Week 22 – 2025-01-06
+## Week 22 – 2026-01-06
 I've built my stacking code.
 I've optimized my codes memory efficiency
-## Week 23 – 2025-01-13
+## Week 23 – 2026-01-13
 I've finally completed the meta QSR
-## Week 24 – 2025-01-20
+## Week 24 – 2026-01-20
 I've built more than 30 automations
-## Week 25 – 2025-01-28
+## Week 25 – 2026-01-28
 I've built more than 10 automations
 The QSR program now automates creating its apps
-## Week 26 – 2025-02-03
+## Week 26 – 2026-02-03
 I've built more than 100 automation
 The QSR program that automates creating its apps still has some bugs, I'm still fixing them
-## Week 27 – 2025-02-10
+## Week 27 – 2026-02-10
 I've automated several Facebook and LinkedIn pages, their links are here:
 https://github.com/alaouichemAI/Automated-pages/commit/71fd2a967a68df4138fa10b951c30a7fde30f3ad
 I've built a SMILES generator to integrate it to my QSR workflow
-## Week 28 – 2025-02-17
+## Week 28 – 2026-02-17
 I've finished work on the LDLR receptor; all the receptors I'll work on will be here:
 https://github.com/alaouichemAI/Receptors
 Still working on the SMILES generator
-## Week 29 – 2025-02-25
+## Week 29 – 2026-02-25
 I've automated other pages
 I've finished work on the SMILES generator
 Still working on integreting it with the activity models to get drug like molecules for every receptor
-## Week 30 – 2025-03-03
+## Week 30 – 2026-03-03
 I'm integrating the SMILES generator with the activity model
 I've improved the apps generator visuals and added the ability to process CSVs
-## Week 31 – 2025-03-10
+## Week 31 – 2026-03-10
 The drug discovery pipeline is ready
+## Week 32 – 2026-03-17
+I have fond drug like molecules for the PCSK9 receptor:
+https://github.com/alaouichemAI/Receptors/blob/main/PCSK9.zip
