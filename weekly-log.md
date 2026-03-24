@@ -145,3 +145,5 @@ The drug discovery pipeline is ready
 ## Week 32 – 2026-03-17
 I have fond drug like molecules for the PCSK9 receptor:
 https://github.com/alaouichemAI/Receptors/blob/main/PCSK9.zip
+## Week 33 – 2026-03-25
+I am building an AI to find cheaper synthetic pathways
