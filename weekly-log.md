@@ -147,3 +147,5 @@ I have fond drug like molecules for the PCSK9 receptor:
 https://github.com/alaouichemAI/Receptors/blob/main/PCSK9.zip
 ## Week 33 – 2026-03-25
 I am building an AI to find cheaper synthetic pathways
+## Week 34 – 2026-03-31
+I am building an AI to find cheaper synthetic pathways: Now I'm building the retro synthesis AI
