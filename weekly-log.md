@@ -149,3 +149,6 @@ https://github.com/alaouichemAI/Receptors/blob/main/PCSK9.zip
 I am building an AI to find cheaper synthetic pathways
 ## Week 34 – 2026-03-31
 I am building an AI to find cheaper synthetic pathways: Now I'm building the retro synthesis AI
+## Week 35 – 2026-04-08
+I am building an AI to find cheaper synthetic pathways: Now I'm training the retro synthesis AI
+I've built an automation that generates videos explaining concepts in under 1 minute
