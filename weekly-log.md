@@ -152,3 +152,6 @@ I am building an AI to find cheaper synthetic pathways: Now I'm building the ret
 ## Week 35 – 2026-04-08
 I am building an AI to find cheaper synthetic pathways: Now I'm training the retro synthesis AI
 I've built an automation that generates videos explaining concepts in under 1 minute
+## Week 36 – 2026-04-15
+I'm still training the retro synthesis AI
+I've built 4 dynamic highly scalable automations
