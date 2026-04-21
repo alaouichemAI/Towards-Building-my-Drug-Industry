@@ -155,3 +155,6 @@ I've built an automation that generates videos explaining concepts in under 1 mi
 ## Week 36 – 2026-04-15
 I'm still training the retro synthesis AI
 I've built 4 dynamic highly scalable automations
+## Week 37 – 2026-04-21
+I'm still training the retro synthesis AI
+I've scalled one of the 4 after I've done all optimisations and debuging, now it publishes in over 30 LinkedIn pages
