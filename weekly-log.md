@@ -158,3 +158,5 @@ I've built 4 dynamic highly scalable automations
 ## Week 37 – 2026-04-21
 I'm still training the retro synthesis AI
 I've scalled one of the 4 after I've done all optimisations and debuging, now it publishes in over 30 LinkedIn pages
+## Week 38 – 2026-04-28
+I've fininshed the training of the retro synthesis AI
