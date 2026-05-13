@@ -160,3 +160,7 @@ I'm still training the retro synthesis AI
 I've scalled one of the 4 after I've done all optimisations and debuging, now it publishes in over 30 LinkedIn pages
 ## Week 38 – 2026-04-28
 I've fininshed the training of the retro synthesis AI
+## Week 39 – 2026-05-11
+The last week was a break
+I've trained models to predict the reactions conditions
+I've integrated a cost calculation model for every molecule
