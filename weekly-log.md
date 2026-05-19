@@ -164,3 +164,6 @@ I've fininshed the training of the retro synthesis AI
 The last week was a break
 I've trained models to predict the reactions conditions
 I've integrated a cost calculation model for every molecule
+## Week 40 – 2026-05-20
+I have automated 40 more pages: https://github.com/alaouichemAI/Automated-pages
+I have updated my website: https://chemisters.com/
